@@ -9,8 +9,9 @@ When you click on a result, it automatically changes it inside the input and rer
 When you click on search a list of all of the result will be displayed, if you click on one of the results you will be redirected to the website.
 
 TODO : 
-Add style (I will propably use Material-UI for that) 
-Add total amount founded.
+- Add style (I will propably use Material-UI for that) 
+
+- Add total amount founded.
 
 In the backend you have three files: 'index' 'mapping' and 'suggest'
 
