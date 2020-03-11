@@ -1,4 +1,9 @@
 # candid-back
+**UPDATE March 11 4pm : **
+The style is now complete. I used material design and the global design seems smoother. I hope you enjoy !
+
+**END UPDATE**
+
 There is no style for the front for the moment ! I will add it later.
 
 Since we talked about elasticsearch during our interview I decided to use it to do the assignement Since we talked about elasticsearch during our interview I decided to use it to do the assignment.
